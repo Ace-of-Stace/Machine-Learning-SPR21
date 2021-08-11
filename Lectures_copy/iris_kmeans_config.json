@@ -1,0 +1,1 @@
+{"title": "Iris Configuration", "data_path": "~/Data/biology/Iris.csv", "col_names": [], "toggle_col_names": true, "k_range": [1, 10], "f": [1, 4], "each_k": 1}

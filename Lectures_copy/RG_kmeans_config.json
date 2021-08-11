@@ -1,0 +1,1 @@
+{"title": "Random Garden Data Configuration", "data_path": "~/Data/biology/Garden_Data.csv", "col_names": ["Feature_1", "Feature_2", "Feature_3", "Feature_4"], "toggle_col_names": false, "k_range": [1, 10], "f": [0, 3], "each_k": 1}
